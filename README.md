@@ -1,8 +1,8 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1> 
+<p align="center">I'm Triet Truong, currently a uni student at FPT University Can Tho. Welcome to my profile, I only have personal projects on my github profile right now, hopefully I'll be able to create more interesting projects that I can show. Feel free to contact me about any questions you might have about my projects.</p>
 
-  I'm Triet Truong, currently a uni student at FPT University Can Tho. Welcome to my profile, I only have personal projects on my github profile right now, hopefully I'll be able to create more interesting projects that I can show. Feel free to contact me about any questions you might have about my projects.
 # Contacts 📫
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img> : louistruong2001@gmail.com.
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>  louistruong2001@gmail.com.
 
 # Familiar Techs *(Some frameworks/tools that I have used)* 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
