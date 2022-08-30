@@ -4,7 +4,7 @@ I'm Triet Truong, currently a uni student at FPT University Can Tho. Welcome to 
 ### Contacts 📫
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img> : louistruong2001@gmail.com.
 
-### Familiar Techs *(Some frameworks that I have used)* 
+### Familiar Techs *(Some frameworks/tools that I have used)* 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black"></img>
