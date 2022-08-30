@@ -6,7 +6,7 @@ I'm Triet Truong, currently a uni student at FPT University Can Tho. Welcome to 
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)"></img>
 
 <!--
 **triettruong1/triettruong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
